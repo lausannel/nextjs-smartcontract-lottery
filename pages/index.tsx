@@ -17,7 +17,6 @@ const Home: NextPage = () => {
             {/*header /connect button / nav bar*/}
             <Header />
             <LotteryEntrance />
-            hello!
         </div>
     );
 };
